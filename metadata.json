@@ -1,0 +1,6 @@
+{
+  "name": "Uddomi – Empowering People, Inspiring Change",
+  "description": "A community-driven social development events platform to create, join, and track local social service events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
